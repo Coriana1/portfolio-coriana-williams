@@ -29,12 +29,12 @@ class Footer extends Component {
                 }
                 style={{ display: "inline" }}
               >
-                <span
+                {/* <span
                   className="iconify language-icon mr-5"
                   data-icon="twemoji-flag-for-flag-united-kingdom"
                   data-inline="false"
                   id={window.$primaryLanguageIconId}
-                ></span>
+                ></span> */}
               </div>
               <div 
                 onClick={() =>
