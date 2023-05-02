@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Coriana Williams. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Coriana Williams. Full-Stack Software Developer Pursuing Web Accessibility to Help Individuals Continuously Reach Goals With Technology Seamlessly and Most Important Thoughtlessly",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "301 Final Project",
+        "startDate": "2023",
+        "description": "My final project will go here",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/FinalProject/p1.jpg",
+          "images/portfolio/FinalProject/p2.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/Date-Planner/React_DateNightApp",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Git Fit",
+        "startDate": "2023",
+        "description": "Git Fit was a fitness website to encourage and offer assistance to individuals wanting to start a healthier lifestyle but needed a helping hand. We offered a macro calculator, fitness and meal plans, and a team of experts to answer any questions. Even people that are well within their fitness journey was welcomed to pre-genereated strength training routines and we has options for maintaining weight as well.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/GitFit/p1.png",
+          "images/portfolio/GitFit/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/MacroCal/GitFit",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +55,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Horned Beast",
+        "startDate": "2023",
+        "description": "This labe provided me with my first opportunity to practive with React components, state, and props, along with conditional rendering and event handling. By the end of the lab, users were ables to click through a working gallery of images that could be filtered based on the number of horns, and interact with the gallery by clicking the images to see a larger version.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/HornedBeast/p1.png",
+          "images/portfolio/HornedBeast/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Coriana1/horned-beast",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -81,37 +81,33 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full-Stack Developer Student",
+        "years": "02.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "HTML, CSS, JavaScript, GithHub 02/2023"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "CSS",
+          "HTML",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
+        "company": "SAIC",
+        "title": "IT Anaylst",
         "years": "01.2018 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Windows"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Microsoft Word",
+          "Microsoft Outlook",
+          "Microsoft Excel",
+          "Microsoft Powerpoint"
         ]
       }
     ]
