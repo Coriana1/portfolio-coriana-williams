@@ -29,12 +29,12 @@ class Footer extends Component {
                 }
                 style={{ display: "inline" }}
               >
-                {/* <span
+                <span
                   className="iconify language-icon mr-5"
-                  data-icon="twemoji-flag-for-flag-united-kingdom"
+                  // data-icon="twemoji-flag-for-flag-united-kingdom"
                   data-inline="false"
                   id={window.$primaryLanguageIconId}
-                ></span> */}
+                ></span>
               </div>
               <div 
                 onClick={() =>
@@ -47,7 +47,7 @@ class Footer extends Component {
               >
                 <span
                   className="iconify language-icon"
-                  data-icon="twemoji-flag-for-flag-poland"
+                  // data-icon="twemoji-flag-for-flag-poland"
                   data-inline="false"
                   id={window.$secondaryLanguageIconId}
                 ></span>
@@ -73,3 +73,5 @@ class Footer extends Component {
 }
 
 export default Footer;
+
+
